@@ -1,0 +1,3 @@
+docker exec -it conteneur_flag_web2 /bin/sh
+cd /var/www/html
+cat index.php
